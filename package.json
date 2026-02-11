@@ -1,6 +1,6 @@
 {
   "name": "@spiderjew/lh-report-cli",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "CLI to generate Lighthouse audit reports JSON/HTML/PDF",
   "main": "index.js",
   "bin": {
@@ -21,9 +21,10 @@
   "license": "MIT",
   "type": "commonjs",
   "dependencies": {
+    "chrome-launcher": "^1.2.1",
+    "commander": "^12.1.0",
     "lighthouse": "^12.2.0",
-    "puppeteer": "^23.5.3",
-    "commander": "^12.1.0"
+    "puppeteer": "^23.5.3"
   },
   "publishConfig": {
     "access": "public"
