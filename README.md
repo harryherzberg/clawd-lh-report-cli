@@ -15,7 +15,7 @@
 | Custom Categories | Select metrics |
 | PDF Export | Branded pro reports |
 | Batch URLs | Site-wide scan |
-| Trends Tracking | Serial runs |
+| Trends Tracking | Compare serial audits with --compare prev.json |
 
 ## 🚀 Quick Start
 
